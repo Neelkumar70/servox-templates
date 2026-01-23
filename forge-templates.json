@@ -1,0 +1,26 @@
+{
+  "loader": "forge",
+  "recommended": "1.20.1",
+  "templates": [
+    {
+      "mc": "1.20.1",
+      "label": "Recommended",
+      "url": "https://github.com/Neelkumar70/servox-templates/releases/download/forgemc/forge-1.20.1.zip"
+    },
+    {
+      "mc": "1.18.2",
+      "label": "Stable",
+      "url": "https://github.com/Neelkumar70/servox-templates/releases/download/forgemc/forge-1.18.2.zip"
+    },
+    {
+      "mc": "1.21.11.",
+      "label": "Legacy Popular",
+      "url": "https://github.com/Neelkumar70/servox-templates/releases/download/forgemc/forge-1.21.11.zip"
+    },
+    {
+      "mc": "1.12.2",
+      "label": "Legacy Classic",
+      "url": "https://github.com/Neelkumar70/servox-templates/releases/download/forgemc/forge-1.12.2.zip"
+    }
+  ]
+}
