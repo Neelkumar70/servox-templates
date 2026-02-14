@@ -1,1 +1,1 @@
-ServoX forge neoforge templates
+forge neoforge templates
